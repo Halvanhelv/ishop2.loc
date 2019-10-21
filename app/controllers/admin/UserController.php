@@ -11,14 +11,14 @@ class UserController extends AppController {
             $user = new User();
             if($user->login(true)){
                 $_SESSION['success'] = 'Вы успешно авторизованы';
-                redirect(ADMIN);
             }else{
                 $_SESSION['error'] = 'Логин/пароль введены неверно';
+            }
+            if(User::isAdmin()){
+                redirect(ADMIN);
+            }else{
                 redirect();
             }
-
-
-
         }
         $this->layout = 'login';
     }

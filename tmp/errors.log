@@ -128,17 +128,19 @@
 =================
 [2017-09-09 08:55:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-10-21 17:40:49] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2017-09-09 09:05:33] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
-[2019-10-21 17:40:52] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2017-09-09 09:17:47] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
-[2019-10-21 17:40:57] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2017-09-09 09:17:53] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
-[2019-10-21 17:41:20] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2019-10-21 21:14:06] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-10-21 17:41:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2019-10-21 21:15:08] Текст ошибки: Метод app\controllers\admin\OrderController::viewAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
 =================
-[2019-10-21 17:42:17] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2019-10-21 21:15:31] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
 =================
-[2019-10-21 17:42:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2019-10-21 21:15:33] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2019-10-21 21:18:37] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================

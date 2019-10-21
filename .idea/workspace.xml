@@ -8,8 +8,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  <component name="ComposerSettings">
     <execution>
       <executable />
     </execution>
@@ -55,17 +54,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>tabs</find>
-      <find>.dropdown div</find>
-      <find>w_sidebar</find>
-      <find>total</find>
-      <find>getAttrs</find>
-      <find>content-wrapper</find>
-      <find>small-box</find>
-    </findStrings>
-  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/ishop/core" />
@@ -81,6 +69,7 @@
     <option name="width" value="1294" />
     <option name="height" value="727" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -160,13 +149,9 @@
       <workItem from="1504801132664" duration="1382000" />
       <workItem from="1504802532235" duration="965000" />
       <workItem from="1504804628472" duration="7000" />
-      <workItem from="1504934634936" duration="2269000" />
-      <workItem from="1571668668317" duration="636000" />
+      <workItem from="1504934634936" duration="5128000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
