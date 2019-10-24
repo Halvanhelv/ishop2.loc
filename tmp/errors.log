@@ -142,3 +142,5 @@
 =================
 [2017-09-09 11:42:31] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка: 29
 =================
+[2017-09-09 12:28:34] Текст ошибки: Метод app\controllers\admin\OrderController::deleteAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
