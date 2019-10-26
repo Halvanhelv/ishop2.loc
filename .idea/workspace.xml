@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="Order delete">
-      <change afterPath="$PROJECT_DIR$/.idea/ishop2.loc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Framework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/adminlte/my.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/adminlte/my.css" afterDir="false" />
+    <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="Category_view_and_delete">
+      <change beforePath="$PROJECT_DIR$/.idea/ishop2.loc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/admin/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/admin/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/AppModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/AppModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/adminlte/my.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/adminlte/my.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
@@ -150,7 +153,8 @@
       <workItem from="1571577942883" duration="1568000" />
       <workItem from="1571937219617" duration="2342000" />
       <workItem from="1572024330558" duration="240000" />
-      <workItem from="1572027218110" duration="1245000" />
+      <workItem from="1572027218110" duration="1362000" />
+      <workItem from="1572092532753" duration="5661000" />
     </task>
     <task id="LOCAL-00001" summary="Order delete">
       <created>1571942312739</created>
@@ -173,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571942363643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Category_view_and_delete">
+      <created>1572028502779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572028502779</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Category_view_and_delete">
+      <created>1572028541432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572028541432</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Order delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Order delete" />
+    <MESSAGE value="Category_view_and_delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Category_view_and_delete" />
   </component>
 </project>
