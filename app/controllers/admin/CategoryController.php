@@ -39,7 +39,7 @@ class CategoryController extends AppController {
             $category->load($data);
             if(!$category->validate($data)){
                 $category->getErrors();
-                redirect();
+                redirect(); //
             }
             if($id = $category->save('category')){
                 $alias = AppModel::createAlias('category', 'alias', $data['title'], $id);
