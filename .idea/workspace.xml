@@ -1,58 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="Users_list" />
+    <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="Users_lists">
+      <change beforePath="$PROJECT_DIR$/app/models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/User.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  <component name="ComposerSettings">
     <execution>
       <executable />
     </execution>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_SCHEMA" value="false" />
     <option name="GROUP_CONTENTS" value="false" />
     <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ishop2@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ishop2@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ishop2@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="ishop2: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-      </path>
-    </expand>
-    <select />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tabs</find>
+      <find>.dropdown div</find>
+      <find>w_sidebar</find>
+      <find>total</find>
+      <find>getAttrs</find>
+      <find>content-wrapper</find>
+      <find>small-box</find>
+      <find>Alexander Pierce</find>
+      <find>user</find>
+      <find>session</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="D:\Документы\OSPanel\domains\Framework\.idea" />
-      </set>
-    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -63,16 +59,24 @@
       <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1Rud4Zkb92VZAdZht9PABHGppZh" />
+  <component name="ProjectId" id="1StAyvBMgLO8pd4Dfd9TqflJROK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="database.data.views" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebServer\domains\ishop2.loc\public\adminlte" />
+      <recent name="D:\WebServer\domains\ishop2.loc\public\images" />
+      <recent name="D:\WebServer\domains\ishop2.loc\public\js" />
+      <recent name="D:\WebServer\domains\ishop2.loc\public\validator" />
+      <recent name="D:\WebServer\domains\ishop2.loc\public" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,161 +90,68 @@
       </list>
     </option>
   </component>
-  <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@445f301a" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </treeState>
-      </serviceView>
-    </option>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <created>1570520725066</created>
+      <changelist id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="" />
+      <created>1503137627692</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570520725066</updated>
-      <workItem from="1570520728241" duration="2149000" />
-      <workItem from="1570615755580" duration="11853000" />
-      <workItem from="1570641951307" duration="634000" />
-      <workItem from="1570710855039" duration="4826000" />
-      <workItem from="1570725089966" duration="2343000" />
-      <workItem from="1570733980854" duration="2247000" />
-      <workItem from="1570781749612" duration="18000" />
-      <workItem from="1570786506592" duration="17335000" />
-      <workItem from="1570883559304" duration="16533000" />
-      <workItem from="1570957965468" duration="1961000" />
-      <workItem from="1570971135298" duration="6532000" />
-      <workItem from="1570982172196" duration="64000" />
-      <workItem from="1570987000659" duration="1194000" />
-      <workItem from="1571000679311" duration="940000" />
-      <workItem from="1571042553627" duration="16518000" />
-      <workItem from="1571139154651" duration="2709000" />
-      <workItem from="1571143286750" duration="2017000" />
-      <workItem from="1571218115874" duration="9544000" />
-      <workItem from="1571333001851" duration="1603000" />
-      <workItem from="1571334906010" duration="153000" />
-      <workItem from="1571336059514" duration="1325000" />
-      <workItem from="1571349205777" duration="408000" />
-      <workItem from="1571392421517" duration="4997000" />
-      <workItem from="1571493105648" duration="4907000" />
-      <workItem from="1571570350433" duration="2721000" />
-      <workItem from="1571577942883" duration="1568000" />
-      <workItem from="1571937219617" duration="2342000" />
-      <workItem from="1572024330558" duration="240000" />
-      <workItem from="1572027218110" duration="1362000" />
-      <workItem from="1572092532753" duration="6124000" />
-      <workItem from="1572113553933" duration="9000" />
-      <workItem from="1572186392257" duration="3298000" />
-      <workItem from="1572209728667" duration="2619000" />
-      <workItem from="1572213410480" duration="34000" />
-      <workItem from="1572266111204" duration="3119000" />
+      <updated>1503137627692</updated>
+      <workItem from="1503137628921" duration="1046000" />
+      <workItem from="1503209288677" duration="2359000" />
+      <workItem from="1503219435892" duration="1673000" />
+      <workItem from="1503233344227" duration="1391000" />
+      <workItem from="1503301228775" duration="3289000" />
+      <workItem from="1503307784877" duration="3660000" />
+      <workItem from="1503311565516" duration="37000" />
+      <workItem from="1503317705925" duration="3901000" />
+      <workItem from="1503380923201" duration="2489000" />
+      <workItem from="1503392960698" duration="4039000" />
+      <workItem from="1503408503528" duration="4083000" />
+      <workItem from="1503468309508" duration="4590000" />
+      <workItem from="1503480431591" duration="3360000" />
+      <workItem from="1503494116706" duration="3093000" />
+      <workItem from="1503497362976" duration="20000" />
+      <workItem from="1503563409697" duration="3015000" />
+      <workItem from="1503739037037" duration="3294000" />
+      <workItem from="1503751255071" duration="5922000" />
+      <workItem from="1503834260970" duration="2635000" />
+      <workItem from="1504260015105" duration="5631000" />
+      <workItem from="1504281430565" duration="4385000" />
+      <workItem from="1504340087299" duration="298000" />
+      <workItem from="1504340444634" duration="6661000" />
+      <workItem from="1504356150925" duration="3515000" />
+      <workItem from="1504421755858" duration="106000" />
+      <workItem from="1504433284844" duration="4042000" />
+      <workItem from="1504542225638" duration="3794000" />
+      <workItem from="1504628477813" duration="2412000" />
+      <workItem from="1504801132664" duration="1382000" />
+      <workItem from="1504802532235" duration="965000" />
+      <workItem from="1504804628472" duration="7000" />
+      <workItem from="1504934634936" duration="5636000" />
+      <workItem from="1504945989244" duration="4355000" />
+      <workItem from="1504955075264" duration="2478000" />
+      <workItem from="1504960520103" duration="4717000" />
+      <workItem from="1505023082664" duration="3672000" />
+      <workItem from="1505032768542" duration="1694000" />
     </task>
-    <task id="LOCAL-00001" summary="Order delete">
-      <created>1571942312739</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1571942312740</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Order delete">
-      <created>1571942338948</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1571942338948</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Order delete">
-      <created>1571942363643</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1571942363643</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Category_view_and_delete">
-      <created>1572028502779</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1572028502779</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Category_view_and_delete">
-      <created>1572028541432</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1572028541432</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Category_add">
-      <created>1572105821986</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1572105821986</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Category_view_and_delete">
-      <created>1572105892464</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1572105892464</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Category_add">
-      <created>1572105983265</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1572105983265</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Category_edit">
-      <created>1572206373952</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1572206373952</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Users_list">
-      <created>1572280416426</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1572280416426</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Order delete" />
-    <MESSAGE value="Category_view_and_delete" />
-    <MESSAGE value="Category_add" />
-    <MESSAGE value="Category_edit" />
-    <MESSAGE value="Users_list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Users_list" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
 </project>
