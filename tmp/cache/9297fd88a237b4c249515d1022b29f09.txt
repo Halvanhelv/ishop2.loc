@@ -1,4 +1,4 @@
-a:2:{s:4:"data";s:1469:"<li>
+a:2:{s:4:"data";s:1225:"<li>
     <a href="category/men">Men</a>
             <ul>
             <li>
@@ -38,12 +38,6 @@ a:2:{s:4:"data";s:1469:"<li>
     </li>        </ul>
     </li><li>
     <a href="category/kids">Kids</a>
-            <ul>
-            <li>
-    <a href="category/testovaya-kategoriya">Тестовая категория!</a>
-            <ul>
-            <li>
-    <a href="category/testovaya-kategoriya-2">Тестовая категория 2</a>
-    </li>        </ul>
-    </li>        </ul>
-    </li>";s:8:"end_time";i:1505050470;}
+    </li><li>
+    <a href="category/">Изи</a>
+    </li>";s:8:"end_time";i:1572537512;}
