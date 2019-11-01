@@ -165,9 +165,11 @@
 =================
 [2017-09-10 15:34:36] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-10-31 17:58:33] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2017-09-11 18:56:22] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-10-31 17:58:36] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2017-09-11 19:01:40] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: D:\WebServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
 =================
-[2019-10-31 17:59:01] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'brand_id' doesn't have a default value | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+[2017-09-11 19:18:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-11 19:46:18] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================

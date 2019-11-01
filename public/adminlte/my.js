@@ -11,3 +11,6 @@ $('.sidebar-menu a').each(function(){
         $(this).closest('.treeview').addClass('active');
     }
 });
+
+// CKEDITOR.replace('editor1');
+$( '#editor1' ).ckeditor();
