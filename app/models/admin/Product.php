@@ -17,6 +17,7 @@ class Product extends AppModel {
         'status' => '',
         'hit' => '',
         'alias' => '',
+        'brand_id'=>'1',
     ];
 
     public $rules = [
