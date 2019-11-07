@@ -211,5 +211,15 @@
 =================
 [2017-09-13 19:00:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-11-07 21:01:26] Текст ошибки: Страница не найдена | Файл: D:\Documents\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+[2017-09-13 19:05:22] Текст ошибки: Метод app\controllers\admin\ProductController::addImageAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-13 19:05:53] Текст ошибки: Метод app\controllers\admin\ProductController::addImageAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-13 19:07:33] Текст ошибки: На найден вид D:\WebServer\domains\ishop2.loc/app/views/admin\Product/add-image.php | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2019-11-07 23:08:20] Текст ошибки: Страница не найдена | Файл: D:\Documents\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-11-07 23:09:53] Текст ошибки: Контроллер app\controllers\ImagesController не найден | Файл: D:\Documents\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2019-11-07 23:10:22] Текст ошибки: Контроллер app\controllers\ImagesController не найден | Файл: D:\Documents\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
