@@ -37,7 +37,7 @@ class Product extends AppModel {
             \R::exec("DELETE FROM related_product WHERE product_id = ?", [$id]);
             return;
         }
-        // если добавляются связанные товары
+        // если добавляются связанные товары.
         if(empty($related_product) && !empty($data['related'])){
             $sql_part = '';
             foreach($data['related'] as $v){
@@ -50,6 +50,7 @@ class Product extends AppModel {
         }
         // если изменились связанные товары - удалим и запишем новые
         if(!empty($data['related'])){
+
             $result = array_diff($related_product, $data['related']);
             if(!empty($result) || count($related_product) != count($data['related'])){
                 \R::exec("DELETE FROM related_product WHERE product_id = ?", [$id]);
