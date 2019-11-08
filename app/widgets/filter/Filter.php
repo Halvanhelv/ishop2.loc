@@ -13,7 +13,6 @@ class Filter{
 
     public function __construct($filter = null, $tpl = ''){
         $this->filter = $filter;
-        debug($filter);
         $this->tpl = $tpl ?: __DIR__ . '/filter_tpl.php';
         $this->run();
     }
@@ -37,7 +36,6 @@ class Filter{
     protected function getHtml(){
         ob_start();
         $filter = self::getFilter();
-
         if(!empty($filter)){
             $filter = explode(',', $filter);
         }
