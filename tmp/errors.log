@@ -235,3 +235,21 @@
 =================
 [2017-09-16 12:34:10] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\ProductController.php | Строка: 14
 =================
+[2017-09-16 14:33:17] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-16 14:33:17] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-16 15:00:10] Текст ошибки: Invalid type: attribute_group | Файл: D:\WebServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Строка: 37
+=================
+[2017-09-16 15:06:26] Текст ошибки: Plugin 'xdispense' does not exist, add this plugin using: R::ext('xdispense') | Файл: D:\WebServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 2004
+=================
+[2017-09-16 15:12:41] Текст ошибки: На найден вид D:\WebServer\domains\ishop2.loc/app/views/admin\Filter/attribute.php | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2017-09-16 15:12:47] Текст ошибки: На найден вид D:\WebServer\domains\ishop2.loc/app/views/admin\Filter/attribute.php | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2017-09-16 18:15:24] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-16 18:47:39] Текст ошибки: Метод app\controllers\admin\ProductController::deleteAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2019-11-09 21:35:35] Текст ошибки: Страница не найдена | Файл: D:\Documents\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
